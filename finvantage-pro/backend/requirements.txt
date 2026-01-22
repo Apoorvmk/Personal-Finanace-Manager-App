@@ -1,0 +1,22 @@
+fastapi
+uvicorn[standard]
+
+# Database
+sqlalchemy
+pymysql
+
+# Authentication & Security
+python-jose
+passlib[bcrypt]
+
+# Data & ML
+pandas
+numpy
+scikit-learn
+
+# Reporting
+matplotlib
+fpdf
+
+# Utilities
+python-dotenv
